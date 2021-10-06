@@ -11,7 +11,7 @@ https://www.kaggle.com/c/costa-rican-household-poverty-prediction/overview
 ## Overview of Code
 The repository has been divided into sections as published in the paper.
 
-### Section III : This folder consists of
+### Section III - Data
 1. Raw Data (from Kaggle) 
 2. File consisting of description of the attributes in the data 
 3. Preprocessed Data - Raw data after cleaning, feature extraction, PCA
