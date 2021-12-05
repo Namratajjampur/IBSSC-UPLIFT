@@ -1,5 +1,8 @@
 # UPLIFT: Usage of Poverty Level Indicators to Facilitate Transformation
 
+###Note: Kindly cite this paper, if the research work has been used as a reference.
+N. Ramesh, D. Chandra, C. Jawahar, and G. Srinivasa, "UPLIFT: Usage of Poverty Level Indicators to Facilitate Transformation", Proc. IEEE Bombay Section Signature Conference (IBSSC), Gwalior (M.P.), India, Nov. 18-20, 2021. To appear.  
+
 ## Abstract
 UPLIFT: Usage of Poverty Level Indicators to Facilitate Transformation, as the name suggests, is a study that aims at analysing data consisting of various socio-economic factors that effect households in order to alleviate poverty by understanding and identifying various aspects that may have an impact on poverty levels. 
 As a use case, data pertaining to the Latin American nation of Costa Rica has been studied. Initially, we perform exploratory data analysis to discover patterns in the data and gain an insight to the relationship between attributes. We then perform feature selection and normalization to render the data suitable for modeling with machine learning techniques. We use these models to predict the poverty standard of each household and map them into four categories corresponding to the level of poverty. Finally, the data is then analyzed in the light of this classification to elicit the factors that strongly effect each category, towards recommending methods for improvement and an appropriate allocation of social welfare benefits.
