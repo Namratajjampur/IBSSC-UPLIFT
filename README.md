@@ -1,6 +1,6 @@
 # UPLIFT: Usage of Poverty Level Indicators to Facilitate Transformation
 
-###Note: Kindly cite this paper, if the research work has been used as a reference.
+### Note: Kindly cite this paper, if the research work has been used as a reference.
 N. Ramesh, D. Chandra, C. Jawahar, and G. Srinivasa, "UPLIFT: Usage of Poverty Level Indicators to Facilitate Transformation", Proc. IEEE Bombay Section Signature Conference (IBSSC), Gwalior (M.P.), India, Nov. 18-20, 2021. To appear.  
 
 ## Abstract
