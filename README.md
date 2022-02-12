@@ -1,7 +1,7 @@
 # UPLIFT: Usage of Poverty Level Indicators to Facilitate Transformation
 
 ### Note: Kindly cite this paper, if the research work has been used as a reference.
-N. Ramesh, D. Chandra, C. Jawahar, and G. Srinivasa, "UPLIFT: Usage of Poverty Level Indicators to Facilitate Transformation", Proc. IEEE Bombay Section Signature Conference (IBSSC), Gwalior (M.P.), India, Nov. 18-20, 2021. To appear.  
+N. Ramesh, D. Chandra, C. Jawahar, and G. Srinivasa, "UPLIFT: Usage of Poverty Level Indicators to Facilitate Transformation", Proc. IEEE Bombay Section Signature Conference (IBSSC), Gwalior (M.P.), India, Nov. 18-20, 2021. https://ieeexplore.ieee.org/document/9673421  
 
 ## Abstract
 UPLIFT: Usage of Poverty Level Indicators to Facilitate Transformation, as the name suggests, is a study that aims at analysing data consisting of various socio-economic factors that effect households in order to alleviate poverty by understanding and identifying various aspects that may have an impact on poverty levels. 
